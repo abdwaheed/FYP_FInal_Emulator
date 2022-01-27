@@ -1,0 +1,1 @@
+firebase emulators:start --inspect-functions --export-on-exit=data_export --import=data_export
